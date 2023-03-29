@@ -4,4 +4,3 @@ y=3.14
 val1 = val2 =4
 var1, var2 = 2,3
 
-print(val1)
