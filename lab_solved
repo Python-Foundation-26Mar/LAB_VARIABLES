@@ -1,0 +1,12 @@
+my_fav_team = "alhilal"
+print(my_fav_team)
+x=2 
+print(x)
+y = 1.3 
+print(y)
+s=a= "sara"
+print(s)
+print(a)
+b,c= 2,6
+print(b)
+print(c)
